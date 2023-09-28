@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">क्लैप डिटेक्टर</string>
+    <string name="clap_to_find_your_phone">फोन ढूंढने के लिए क्लैप करें</string>
+    <string name="flashlight_to_on_in_dark">अंधेरे में ऑन करने के लिए फ्लैशलाइट</string>
+    <string name="what_are_you_waiting_for">आप किसका इंतजार कर रहे हैं?</string>
+    <string name="get_started">शुरू करें</string>
+    <string name="continuee">जारी रखें</string>
+    <string name="cat_meowing">बिल्ली का म्याऊँ</string>
+    <string name="dog_barking">कुत्ते की भौंक</string>
+    <string name="hye_stay_here">अरे, यहाँ रुको</string>
+    <string name="whistle">सीटी बजाना</string>
+    <string name="hello">नमस्ते</string>
+    <string name="car_honk">कार की हॉर्न</string>
+    <string name="door_bell">दरवाजे की घंटी</string>
+    <string name="party_horn">पार्टी हॉर्न</string>
+    <string name="tap_active">िए टैप करें</string>
+    <string name="tap_deactive">लिए टैप करें</string>
+    <string name="police_whistle">पुलिस की सीटी</string>
+    <string name="english_default">अंग्रेज़ी (डिफ़ॉल्ट)</string>
+    <string name="select_lanuages">भाषाएँ चुनें</string>
+    <string name="find_your_phone">अपना फोन खोजें</string>
+    <string name="sound_sensitivity">ध्वनि संवेदनशीलता</string>
+    <string name="to_find_the_lost_phone_easily">खोए गए फोन को आसानी से ढूंढने के लिए</string>
+    <string name="Go_app_to_experience_it">इसे अनुभव करने के लिए ऐप में जाएं!</string>
+    <string name="sound_active">ध्वनि सक्रिय</string>
+    <string name="volume">आवाज़</string>
+    <string name="duration">अवधि</string>
+    <string name="_15s">15 सेकंड</string>
+    <string name="_30_s">30 सेकंड</string>
+    <string name="_1_m">1 मिनट</string>
+    <string name="_2_m">2 मिनट</string>
+    <string name="loop">लूप</string>
+    <string name="apply">लागू करें</string>
+    <string name="flash_light">फ्लैशलाइट</string>
+    <string name="vibrate">वाइब्रेट</string>
+    <string name="dark_mode">डार्क मोड</string>
+    <string name="language">भाषा</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="rate_us">हमें मूल्यांकन करें</string>
+    <string name="feedback">सुझाव</string>
+    <string name="exit">बाहर जाएं</string>
+
+    <string name="settings">सेटिंग्स</string>
+    <string name="defaultt">डिफ़ॉल्ट</string>
+    <string name="disco_mode">डिस्को मोड</string>
+    <string name="sos_mode">एसओएस मोड</string>
+    <string name="heartbeat">दिल की धड़कन</string>
+    <string name="strong_vibration">मज़बूत वाइब्रेशन</string>
+    <string name="ticktock">टिक-टॉक</string>
+    <string name="permission">अनुमति</string>
+    <string name="following_permissions_are_required">निम्नलिखित अनुमतियाँ आवश्यक हैं</string>
+    <string name="to_provide_you_with_the_best_experience_and_also_needs_following_permissions">आपको सर्वोत्तम अनुभव प्रदान करने के लिए और निम्नलिखित अनुमतियों की आवश्यकता भी है।</string>
+    <string name="allow_access_for_voice_recording">आवाज़ रेकॉर्डिंग के लिए एक्सेस दें</string>
+    <string name="allow_access_for_flashlight">फ़्लैशलाइट के लिए एक्सेस दें।</string>
+    <string name="allow">अनुमति दें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="cavalry">सवारी</string>
+
+    <string name="more_apps">अधिक ऐप्स</string>
+</resources>

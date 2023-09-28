@@ -1,0 +1,108 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+}
+
+android {
+    namespace 'com.cwc.clapdetector'
+    compileSdk 33
+
+    buildFeatures {
+        viewBinding = true
+    }
+
+    defaultConfig {
+        applicationId "com.app.clap.findmyphone.phonefinder.phonetracker"
+        minSdk 24
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+            debug {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+                resValue("string", "app_id", "ca-app-pub-3940256099942544~3347511713")
+                resValue("string", "inters_id", "ca-app-pub-3940256099942544/1033173712")
+                resValue("string", "native_id", "ca-app-pub-3940256099942544/2247696110")
+                resValue("string", "app_open", "ca-app-pub-3940256099942544/3419835294")
+             /*   resValue("string", "app_id", "ca-app-pub-5408098781737794~9359906388")
+                resValue("string", "inters_id", "ca-app-pub-5408098781737794/9331986225")
+                resValue("string", "native_id", "ca-app-pub-5408098781737794/2435405380")
+                resValue("string", "app_open", "ca-app-pub-5408098781737794/1289844676")*/
+
+
+            }
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+                resValue("string", "app_id", "ca-app-pub-5408098781737794~9359906388")
+                resValue("string", "inters_id", "ca-app-pub-5408098781737794/9331986225")
+                resValue("string", "native_id", "ca-app-pub-5408098781737794/2435405380")
+                resValue("string", "app_open", "ca-app-pub-5408098781737794/1289844676")
+            }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    sourceSets {
+        main {
+            assets {
+                srcDirs 'src\\main\\assets'
+            }
+        }
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.core:core-ktx:1.8.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.6.0'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.6.0'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    //sdp
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
+
+    //lottie
+    implementation 'com.airbnb.android:lottie:6.1.0'
+
+    //seekbar
+    implementation 'com.github.moisoni97:IndicatorSeekBar:3.0.0'
+
+    //dexter
+    implementation 'com.karumi:dexter:6.2.1'
+
+    //ads
+    implementation 'com.google.android.gms:play-services-ads:22.3.0'
+    implementation "androidx.work:work-runtime-ktx:2.8.0-beta01"
+
+    //firebase
+    implementation platform('com.google.firebase:firebase-bom:31.0.1')
+    implementation 'com.google.firebase:firebase-messaging-ktx'
+    implementation 'com.google.firebase:firebase-database'
+    implementation 'com.google.firebase:firebase-inappmessaging-display-ktx'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx'
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+
+    //Facebook Shimmer
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+    //lifecycle
+    implementation 'androidx.lifecycle:lifecycle-process:2.6.1'
+
+}

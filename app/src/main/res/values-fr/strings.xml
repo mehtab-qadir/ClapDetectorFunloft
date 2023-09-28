@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Détecteur de Claps</string>
+    <string name="clap_to_find_your_phone">Clap pour trouver ton téléphone</string>
+    <string name="flashlight_to_on_in_dark">Lampe de poche pour allumer dans l\'obscurité</string>
+    <string name="what_are_you_waiting_for">Qu\'est-ce que tu attends ?</string>
+    <string name="get_started">Commencer</string>
+    <string name="continuee">Continuer</string>
+    <string name="cat_meowing">Miaulement de chat</string>
+    <string name="dog_barking">Aboiement de chien</string>
+    <string name="hye_stay_here">Hé, reste ici</string>
+    <string name="whistle">Sifflet</string>
+    <string name="hello">Bonjour</string>
+    <string name="car_honk">Klaxon de voiture</string>
+    <string name="door_bell">Sonnette de porte</string>
+    <string name="party_horn">Corne de fête</string>
+    <string name="tap_active">activer</string>
+    <string name="tap_deactive">désactiver</string>
+    <string name="police_whistle">Sifflet de police</string>
+    <string name="english_default">Anglais (Par défaut)</string>
+    <string name="select_lanuages">Sélectionner les Langues</string>
+    <string name="find_your_phone">Trouve ton téléphone</string>
+    <string name="sound_sensitivity">Sensibilité au Son</string>
+    <string name="to_find_the_lost_phone_easily">Pour trouver facilement le téléphone perdu</string>
+    <string name="Go_app_to_experience_it">Allez dans l\'application pour l\'expérimenter !</string>
+    <string name="sound_active">Son Actif</string>
+    <string name="volume">Volume</string>
+    <string name="duration">Durée</string>
+    <string name="_15s">15 s</string>
+    <string name="_30_s">30 s</string>
+    <string name="_1_m">1 min</string>
+    <string name="_2_m">2 min</string>
+    <string name="loop">Boucle</string>
+    <string name="apply">Appliquer</string>
+    <string name="flash_light">Lampe de Poche</string>
+    <string name="vibrate">Vibrer</string>
+    <string name="dark_mode">Mode Sombre</string>
+    <string name="language">Langue</string>
+    <string name="privacy_policy">Politique de Confidentialité</string>
+    <string name="rate_us">Évaluez-nous</string>
+    <string name="feedback">Retour</string>
+    <string name="exit">Quitter</string>
+
+    <string name="settings">Paramètres</string>
+    <string name="defaultt">Par défaut</string>
+    <string name="disco_mode">Mode Disco</string>
+    <string name="sos_mode">Mode SOS</string>
+    <string name="heartbeat">Battement de cœur</string>
+    <string name="strong_vibration">Vibration intense</string>
+    <string name="ticktock">Tic-tac</string>
+    <string name="permission">Autorisation</string>
+    <string name="following_permissions_are_required">Les autorisations suivantes sont requises</string>
+    <string name="to_provide_you_with_the_best_experience_and_also_needs_following_permissions">Pour vous offrir la meilleure expérience et nécessite également les autorisations suivantes.</string>
+    <string name="allow_access_for_voice_recording">Autoriser l\'accès à l\'enregistrement vocal</string>
+    <string name="allow_access_for_flashlight">Autoriser l\'accès à la lampe de poche.</string>
+    <string name="allow">Autoriser</string>
+    <string name="cancel">Annuler</string>
+    <string name="cavalry">Cavalerie</string>
+
+    <string name="more_apps">Plus d\'applications</string>
+</resources>

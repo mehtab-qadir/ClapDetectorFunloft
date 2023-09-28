@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763635273402",
+    "project_id": "find-my-phone-by-clap-f82e7",
+    "storage_bucket": "find-my-phone-by-clap-f82e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763635273402:android:0410febfdb9491733cbc83",
+        "android_client_info": {
+          "package_name": "com.app.clap.findmyphone.phonefinder.phonetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763635273402-1jvdrp0ttilp2gjoci43frstsln788ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWCqEvsYmR0OYQEbKNLZu1DqR77Pa_3qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763635273402-1jvdrp0ttilp2gjoci43frstsln788ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

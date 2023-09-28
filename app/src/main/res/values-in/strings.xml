@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pendeteksi Klak</string>
+    <string name="clap_to_find_your_phone">Klak untuk menemukan ponsel Anda</string>
+    <string name="flashlight_to_on_in_dark">Senter untuk menyala dalam kegelapan</string>
+    <string name="what_are_you_waiting_for">Tunggu apa lagi?</string>
+    <string name="get_started">Mulai</string>
+    <string name="continuee">Lanjutkan</string>
+    <string name="cat_meowing">Kucing miaw</string>
+    <string name="dog_barking">Anjing menggonggong</string>
+    <string name="hye_stay_here">Hei, tetap di sini</string>
+    <string name="whistle">Peluit</string>
+    <string name="hello">Halo</string>
+    <string name="car_honk">Klakson mobil</string>
+    <string name="door_bell">Bel pintu</string>
+    <string name="party_horn">Trompet pesta</string>
+    <string name="tap_active">Aktif</string>
+    <string name="tap_deactive">Nonaktif</string>
+    <string name="police_whistle">Peluit polisi</string>
+    <string name="english_default">Inggris (Default)</string>
+    <string name="select_lanuages">Pilih Bahasa</string>
+    <string name="find_your_phone">Temukan ponsel Anda</string>
+    <string name="sound_sensitivity">Sensitivitas Suara</string>
+    <string name="to_find_the_lost_phone_easily">Untuk menemukan ponsel yang hilang dengan mudah</string>
+    <string name="Go_app_to_experience_it">Pergi ke aplikasi untuk mengalaminya!</string>
+    <string name="sound_active">Suara Aktif</string>
+    <string name="volume">Volume</string>
+    <string name="duration">Durasi</string>
+    <string name="_15s">15 detik</string>
+    <string name="_30_s">30 detik</string>
+    <string name="_1_m">1 menit</string>
+    <string name="_2_m">2 menit</string>
+    <string name="loop">Loop</string>
+    <string name="apply">Terapkan</string>
+    <string name="flash_light">Senter</string>
+    <string name="vibrate">Getar</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="language">Bahasa</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="rate_us">Beri Nilai Kami</string>
+    <string name="feedback">Umpan Balik</string>
+    <string name="exit">Keluar</string>
+
+    <string name="settings">Pengaturan</string>
+    <string name="defaultt">Default</string>
+    <string name="disco_mode">Mode Disko</string>
+    <string name="sos_mode">Mode SOS</string>
+    <string name="heartbeat">Detak Jantung</string>
+    <string name="strong_vibration">Getaran Kuat</string>
+    <string name="ticktock">Tiktok</string>
+    <string name="permission">Izin</string>
+    <string name="following_permissions_are_required">Izin-izin berikut diperlukan</string>
+    <string name="to_provide_you_with_the_best_experience_and_also_needs_following_permissions">Untuk memberikan Anda pengalaman terbaik dan juga memerlukan izin-izin berikut.</string>
+    <string name="allow_access_for_voice_recording">Izinkan akses untuk perekaman suara</string>
+    <string name="allow_access_for_flashlight">Izinkan akses untuk sentera.</string>
+    <string name="allow">Izinkan</string>
+    <string name="cancel">Batal</string>
+    <string name="cavalry">Kavaleri</string>
+
+    <string name="more_apps">Aplikasi Lainnya</string>
+</resources>

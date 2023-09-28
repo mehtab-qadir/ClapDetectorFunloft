@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Klatscherkennung</string>
+    <string name="clap_to_find_your_phone">Klatschen, um dein Telefon zu finden</string>
+    <string name="flashlight_to_on_in_dark">Taschenlampe zum Einschalten im Dunkeln</string>
+    <string name="what_are_you_waiting_for">Worauf wartest du?</string>
+    <string name="get_started">Loslegen</string>
+    <string name="continuee">Weiter</string>
+    <string name="cat_meowing">Katzenmiauen</string>
+    <string name="dog_barking">Hundebellen</string>
+    <string name="hye_stay_here">Hey, bleib hier</string>
+    <string name="whistle">Pfeifen</string>
+    <string name="hello">Hallo</string>
+    <string name="car_honk">Autohupen</string>
+    <string name="door_bell">Türklingeln</string>
+    <string name="party_horn">Partyhorn</string>
+    <string name="tap_active">aktivieren</string>
+    <string name="tap_deactive">deaktivieren</string>
+    <string name="police_whistle">Polizeipfeife</string>
+    <string name="english_default">Englisch (Standard)</string>
+    <string name="select_lanuages">Sprachen auswählen</string>
+    <string name="find_your_phone">Finde dein Telefon</string>
+    <string name="sound_sensitivity">Schallsensibilität</string>
+    <string name="to_find_the_lost_phone_easily">Um das verlorene Telefon leicht zu finden</string>
+    <string name="Go_app_to_experience_it">Gehe zur App, um es zu erleben!</string>
+    <string name="sound_active">Ton aktiv</string>
+    <string name="volume">Lautstärke</string>
+    <string name="duration">Dauer</string>
+    <string name="_15s">15 s</string>
+    <string name="_30_s">30 s</string>
+    <string name="_1_m">1 Min</string>
+    <string name="_2_m">2 Min</string>
+    <string name="loop">Schleife</string>
+    <string name="apply">Anwenden</string>
+    <string name="flash_light">Taschenlampe</string>
+    <string name="vibrate">Vibrieren</string>
+    <string name="dark_mode">Dunkelmodus</string>
+    <string name="language">Sprache</string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+    <string name="rate_us">Bewerte uns</string>
+    <string name="feedback">Rückmeldung</string>
+    <string name="exit">Beenden</string>
+
+    <string name="settings">Einstellungen</string>
+    <string name="defaultt">Standard</string>
+    <string name="disco_mode">Disco-Modus</string>
+    <string name="sos_mode">SOS-Modus</string>
+    <string name="heartbeat">Herzschlag</string>
+    <string name="strong_vibration">Starke Vibration</string>
+    <string name="ticktock">Ticktack</string>
+    <string name="permission">Berechtigung</string>
+    <string name="following_permissions_are_required">Folgende Berechtigungen sind erforderlich</string>
+    <string name="to_provide_you_with_the_best_experience_and_also_needs_following_permissions">Um Ihnen das beste Erlebnis zu bieten, sind auch folgende Berechtigungen erforderlich.</string>
+    <string name="allow_access_for_voice_recording">Zugriff für Sprachaufzeichnung erlauben</string>
+    <string name="allow_access_for_flashlight">Zugriff für Taschenlampe erlauben.</string>
+    <string name="allow">Erlauben</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cavalry">Kavallerie</string>
+
+    <string name="more_apps">Mehr Apps</string>
+</resources>

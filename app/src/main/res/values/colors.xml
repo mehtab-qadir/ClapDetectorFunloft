@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appcolor">#0477C5</color>
+    <color name="grey">#EEEEEE</color>
+    <color name="grey1">#EEEEEE</color>
+    <color name="grey2">#EEEEEE</color>
+
+    <color name="lightblue">#550477C5</color>
+    <color name="lightgrey">#EEEEEE</color>
+
+
+    <color name="white1">#FFFFFFFF</color>
+
+    <color name="black1">#FF000000</color>
+
+    <color name="cardcolor">#FFFFFFFF</color>
+</resources>

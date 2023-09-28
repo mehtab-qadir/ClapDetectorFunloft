@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Klapdetektor</string>
+    <string name="clap_to_find_your_phone">Klap om jou foon te vind</string>
+    <string name="flashlight_to_on_in_dark">Flitslig om in die donker aan te skakel</string>
+    <string name="what_are_you_waiting_for">Waarvoor wag jy?</string>
+    <string name="get_started">Begin</string>
+    <string name="continuee">Gaan voort</string>
+    <string name="cat_meowing">Kat wat miauw</string>
+    <string name="dog_barking">Hond wat blaf</string>
+    <string name="hye_stay_here">Hey, bly hier</string>
+    <string name="whistle">Fluitjie</string>
+    <string name="hello">Hallo</string>
+    <string name="car_honk">Motor toetstoot</string>
+    <string name="door_bell">Deurbel</string>
+    <string name="party_horn">Partytoeter</string>
+    <string name="tap_active">te skakel</string>
+    <string name="tap_deactive">te skakel</string>
+    <string name="police_whistle">Polisiewhistle</string>
+    <string name="english_default">Engels (Verstek)</string>
+    <string name="select_lanuages">Kies Tale</string>
+    <string name="find_your_phone">Vind jou foon</string>
+    <string name="sound_sensitivity">Klank Sensitiwiteit</string>
+    <string name="to_find_the_lost_phone_easily">Om die verlore foon maklik te vind</string>
+    <string name="Go_app_to_experience_it">Gaan na die program om dit te ervaar!</string>
+    <string name="sound_active">Klank Aktief</string>
+    <string name="volume">Volume</string>
+    <string name="duration">Tydsduur</string>
+    <string name="_15s">15 s</string>
+    <string name="_30_s">30 s</string>
+    <string name="_1_m">1 m</string>
+    <string name="_2_m">2 m</string>
+    <string name="loop">lus</string>
+    <string name="apply">Toepas</string>
+    <string name="flash_light">Flitslig</string>
+    <string name="vibrate">Vibreer</string>
+    <string name="dark_mode">Donker Modus</string>
+    <string name="language">Taal</string>
+    <string name="privacy_policy">Privaatheidsbeleid</string>
+    <string name="rate_us">Beoordeel Ons</string>
+    <string name="feedback">Terugvoer</string>
+    <string name="exit">Verlaat</string>
+
+    <string name="settings">Instellings</string>
+    <string name="defaultt">Standaard</string>
+    <string name="disco_mode">Disco Modus</string>
+    <string name="sos_mode">SOS-modus</string>
+    <string name="heartbeat">Hartklop</string>
+    <string name="strong_vibration">Sterk Vibrasie</string>
+    <string name="ticktock">Tiktok</string>
+    <string name="permission">Toestemming</string>
+    <string name="following_permissions_are_required">Die volgende toestemmings is vereis</string>
+    <string name="to_provide_you_with_the_best_experience_and_also_needs_following_permissions">Om jou die beste ervaring te bied en vereis ook die volgende toestemmings.</string>
+    <string name="allow_access_for_voice_recording">Staan toegang tot stemopname toe</string>
+    <string name="allow_access_for_flashlight">Staan toegang tot die flitslig toe.</string>
+    <string name="allow">Staan toe</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="cavalry">Kawalerie</string>
+
+    <string name="more_apps">Meer Toepassings</string>
+</resources>
